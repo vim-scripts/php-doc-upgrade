@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2980
+
+added things like
+
+- {{{ }}} wrapper support in functions
+- fixed int/bool/string/float crap to properly work
+
